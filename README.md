@@ -47,9 +47,9 @@ In a statistical study to compare performance of the MechaCar vehicles against p
    - Null Hypothetis: MechaCar vehicles do not have statistically different fuel efficiency from other manufacturers.
    - Alternative Hypothesis: They do have statistically different fuel effenciency.
 5. What statistical test would you use to test the hypothesis? And why?
-   An analysis of variance could because it could help determine statistical difference in fuel efficiency.
+   - An analysis of variance could because it could help determine statistical difference in fuel efficiency.
 7. What data is needed to run the statistical test?
-   A statistically significant sample size of different cars and their fuel effenciency.
+   - A statistically significant sample size of different cars and their fuel effenciency.
 
 
 
