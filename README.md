@@ -10,7 +10,7 @@ Designed the following linear model that predicts the mpg of MechaCar prototypes
 2. Is the slope of the linear model considered to be zero? Why or why not?
    - It is not consiered to be zero due to the effect the indepedent variables had on the dependent variable. A zero/near zero slope would only occur if the indepedent        variables have no effect.
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-   - Yes it is effective because, based on the R-squared value , the mpg of the MechaCar was predicted correctly 71 times.
+   - Yes it is effective because. Based on the R-squared value, the mpg of the MechaCar was predicted correctly 71 times.
 
 ## Summary Statistics on Suspension Coils
 Created a summary statistics table to show tThe suspension coil’s PSI continuous variable across all manufacturing lots and the following PSI metrics for each lot: mean, median, variance, and standard deviation, in order to answer the question below:
