@@ -38,4 +38,19 @@ Performed t-tests to determine if all manufacturing lots and each lot individual
 ### Lot3
 ![image](https://user-images.githubusercontent.com/5934390/123321194-a6cb7500-d500-11eb-87bd-964f9fcc80a7.png)
 
+## Study Design: MechaCar vs Competition
+In a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers, the below questions are addressed:
+
+1. What metric or metrics are you going to test?
+   - Fuel efficiency
+3. What is the null hypothesis or alternative hypothesis?
+   - Null Hypothetis: MechaCar vehicles do not have statistically different fuel efficiency from other manufacturers.
+   - Alternative Hypothesis: They do have statistically different fuel effenciency.
+5. What statistical test would you use to test the hypothesis? And why?
+   An analysis of variance could because it could help determine statistical difference in fuel efficiency.
+7. What data is needed to run the statistical test?
+   A statistically significant sample size of different cars and their fuel effenciency.
+
+
+
 
