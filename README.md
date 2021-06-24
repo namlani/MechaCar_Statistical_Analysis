@@ -6,7 +6,7 @@ Designed the following linear model that predicts the mpg of MechaCar prototypes
 
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-   - The vehicle length and the ground_clerance.
+   - The vehicle length and the ground_clearance.
 2. Is the slope of the linear model considered to be zero? Why or why not?
    - It is not consiered to be zero due to the effect the indepedent variables had on the dependent variable. A zero/near zero slope would only occur if the indepedent        variables have no effect.
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
